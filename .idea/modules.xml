@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DrunkCast.iml" filepath="$PROJECT_DIR$/DrunkCast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameHostServer/GameHostServer.iml" filepath="$PROJECT_DIR$/GameHostServer/GameHostServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drunk/drunk.iml" filepath="$PROJECT_DIR$/drunk/drunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/models/models.iml" filepath="$PROJECT_DIR$/models/models.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrunkCast</string>
+    <string name="app_id">7C26A68F</string>
+    <string name="app_namespace">urn:x-cast:com.king.drunk</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings_text">Settings</string>
+    <string name="start_button_text">Start Game</string>
+    <string name="media_route_menu_title">Play on…</string>
+    <string name="chromecast_connection_failed_text">Connection to ChromeCast failed</string>
+    <string name="connection_failed_text">Connection to game host failed.</string>
+    <string name="connection_success_text">Connected to host.</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="joining_game">Joining Game</string>
+    <string name="hosting_game">Hosting Game</string>
+    <string name="validation_failed_title">Nice Try</string>
+    <string name="validation_failed_text">One or many fields are missing...</string>
+    <string name="instructions">Talk to me</string>
+    <string name="host_button_text">Host Game</string>
+    <string name="join_button_text">Join Game</string>
+    <string name="title_activity_host_game">Host a New Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_join_game">Join an Existing Game</string>
+    <string name="wait_for_players">Waiting for other players to Join</string>
+    <string name="title_activity_wait_for_host">WaitForHostActivity</string>
+
+</resources>
